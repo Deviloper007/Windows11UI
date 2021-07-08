@@ -15,7 +15,7 @@ body{
     background-color: #f3f3f3;
     width: 100%;
     position: absolute;
-    bottom: 0;
+    bottom: 20px;
     display: flex;
     z-index: 110;
     justify-content: center;
